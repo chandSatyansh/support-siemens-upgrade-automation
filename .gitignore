@@ -1,0 +1,12 @@
+# resource-guard output (snapshots, plans, backups)
+resource-guard-data/
+**/resource-guard-data/
+restore_*/
+
+# vgu fleet script output (per-run reports, host data, resmgr payloads)
+vgpu_pf_patch_*/
+
+# local / OS noise
+.DS_Store
+*.swp
+*.tmp

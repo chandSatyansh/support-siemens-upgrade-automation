@@ -1,1 +1,0 @@
-# support-siemens-upgrade-automation
